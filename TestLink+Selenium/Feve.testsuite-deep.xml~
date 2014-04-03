@@ -9,7 +9,7 @@
 
 <testcase internalid="43" name="Retorno a la página principal de Renfe">
 	<node_order><![CDATA[100]]></node_order>
-	<externalid><![CDATA[21]]></externalid>
+	<externalid><![CDATA[11]]></externalid>
 	<version><![CDATA[1]]></version>
 	<summary><![CDATA[<p>
 	Probaremos el error de Renfe Feve.</p>

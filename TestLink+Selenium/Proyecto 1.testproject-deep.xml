@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="" >
+<node_order><![CDATA[]]></node_order>
+<details><![CDATA[]]></details> 
+<testsuite name="Cambio de Idiomas" >
+<node_order><![CDATA[0]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="71" name="Cambiar Idioma a Ingles desde Index">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[2]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Cambiamos el idioma de la pagina principal a Ingles</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>
+	Pulsamos el boton Welcome</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>
+	Cambiamos a la pagina index en ingles.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+
+<testcase internalid="74" name="Cambiar Idioma a Frances desde Index">
+	<node_order><![CDATA[101]]></node_order>
+	<externalid><![CDATA[3]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Cambiamos de idioma a Frances desde la web index</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="76" name="Cambiar Idioma a Catalan desde Index">
+	<node_order><![CDATA[102]]></node_order>
+	<externalid><![CDATA[4]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Cambiamos de idioma a Frances desde la web index</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="78" name="Cambiar Idioma a Vasco desde Index">
+	<node_order><![CDATA[103]]></node_order>
+	<externalid><![CDATA[5]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Cambiamos de idioma a Vasco desde la web index</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="80" name="Cambiar Idioma a Gallego desde Index">
+	<node_order><![CDATA[104]]></node_order>
+	<externalid><![CDATA[6]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Cambiamos de idioma a Gallego desde la web index</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="82" name="Cambiar Idioma a Valenciano desde Index">
+	<node_order><![CDATA[105]]></node_order>
+	<externalid><![CDATA[7]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Cambiamos de idioma a Valenciano desde la web index</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="84" name="Cambiar Idioma de Ingles a Castellano">
+	<node_order><![CDATA[106]]></node_order>
+	<externalid><![CDATA[8]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Cambiamos de idioma de Ingles a Castellano desde la web index</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="86" name="Cambiar Idioma de Frances a Castellano dede Index">
+	<node_order><![CDATA[107]]></node_order>
+	<externalid><![CDATA[9]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Cambiamos de idioma de Frances a Castellano desde la web index</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>
+	Pulsamos el boton Bienvenido</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>
+	Se carga la pagina index en castellano</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite><testsuite name="Compra de Billetes" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="90" name="Compra de Billetes desde Index">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[10]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Compramos billetes, seleccionando origen, destino, fechas y numero de billetes desde el index</p>
+]]></summary>
+	<preconditions><![CDATA[<p>
+	Estar en la pagina index</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>
+	Seleccionamos el tipo de viaje Ida o Ida/Vuelta</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>
+	Seleccionamos estacion de origen</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>
+	Seleccionamos estacion de destino</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[4]]></step_number>
+	<actions><![CDATA[<p>
+	Seleccionamos fecha y hora de salida</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[5]]></step_number>
+	<actions><![CDATA[<p>
+	Seleccionamos fecha y hora de regreso</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[6]]></step_number>
+	<actions><![CDATA[<p>
+	Seleccionamos numero de billetes segun edad</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[7]]></step_number>
+	<actions><![CDATA[<p>
+	Seleccionamos tarjeta joven, tarjeta dorada, ambas o ninguna</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[8]]></step_number>
+	<actions><![CDATA[<p>
+	Introducimos codigo promocional o nada</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[9]]></step_number>
+	<actions><![CDATA[<p>
+	Pulsamos el boton Comprar</p>
+]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite><testsuite name="Atencion al cliente" >
+<node_order><![CDATA[2]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="66" name="Rellenar Formulario Objeto Perdido">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[11]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="68" name="Rellenar Formulario Atencion al Cliente">
+	<node_order><![CDATA[101]]></node_order>
+	<externalid><![CDATA[12]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+</testsuite><testsuite name="Feve" >
+<node_order><![CDATA[2]]></node_order>
+<details><![CDATA[<p>
+	Hemos detectado que cuando entramos en la p&aacute;gina de Renfe Feve y damos al enlace del t&iacute;tulo nos devuelve a la p&aacute;gina</p>
+<p>
+	de Renfe.</p>
+]]></details> 
+
+<testcase internalid="135" name="Retorno a la página principal de Renfe">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[21]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Probaremos el error de Renfe Feve.</p>
+]]></summary>
+	<preconditions><![CDATA[<p>
+	Nos situaremos en la p&aacute;gina principal de la Renfe: <a href="http://www.renfe.com/index.html">http://www.renfe.com/index.html</a></p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>
+	Hacemos click en el icono de Feve.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>
+	Accedemos a la p&aacute;gina principal de Renfe Feve.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>
+	Hacemos click en el logo de Renfe Feve.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>
+	Deber&iacute;amos mantenernos en la p&aacute;gina principal de Renfe Feve.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[]]></actions>
+	<expectedresults><![CDATA[]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+</testcase>
+</testsuite><testsuite name="Compra de Billetes alternativa" >
+<node_order><![CDATA[3]]></node_order>
+<details><![CDATA[<p>
+	Procederemos a comprar un billete introduciendo distintos campos en la p&aacute;gina: <a href="https://venta.renfe.com/vol/inicioCompra.do">https://venta.renfe.com/vol/inicioCompra.do</a></p>
+]]></details> 
+
+<testcase internalid="117" name="1 - 1, 3, 5, 7, 10, 12, 15, 17, 18, 19, 23, 25, 27">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[20]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Caso de prueba 1.</p>
+<p>
+	Resultado esperado: Compra correcta.</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="119" name="2 - 1, 4, 5, 7, 10, 12, 15, 17, 18, 19, 23, 25, 27">
+	<node_order><![CDATA[101]]></node_order>
+	<externalid><![CDATA[13]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Caso de prueba 2.</p>
+<p>
+	Resultado esperado: Error por estaci&oacute;n de origen mal escrita.</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="121" name="3 - 1, 3, 5, 8, 10, 12, 15, 17, 18, 19, 23, 25, 27">
+	<node_order><![CDATA[102]]></node_order>
+	<externalid><![CDATA[14]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Caso de prueba 3.</p>
+<p>
+	Resultado esperado: Fecha de salida erronea.</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="123" name="4 - 2, 3, 5, 7, 11, 17, 18, 19, 23, 25, 27">
+	<node_order><![CDATA[103]]></node_order>
+	<externalid><![CDATA[15]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Caso de prueba 4.</p>
+<p>
+	Resultado esperado: Error por la hora.</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="125" name="5 - 2, 3, 5, 7, 10, 20, 23, 25, 27">
+	<node_order><![CDATA[104]]></node_order>
+	<externalid><![CDATA[16]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Caso de prueba 5.</p>
+<p>
+	Resultado esperado: El n&uacute;mero de viajeros total no debe ser mayor que 9.</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="127" name="6 - 2, 3, 5, 7, 10, 21, 23, 25, 27">
+	<node_order><![CDATA[105]]></node_order>
+	<externalid><![CDATA[17]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Caso de prueba 6.</p>
+<p>
+	Resultado esperado: El n&uacute;mero de ni&ntilde;os menores de 4 a&ntilde;os ha de ser menor o igual que la suma</p>
+<p>
+	de adultos y ni&ntilde;os entre 4 y 13 a&ntilde;os.</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="129" name="7 - 2, 3, 5, 7, 10, 17, 18, 19, 22, 24, 27">
+	<node_order><![CDATA[106]]></node_order>
+	<externalid><![CDATA[18]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Caso de prueba 7.</p>
+<p>
+	Resultado esperado: En los viajes salen los precios asociados a la tarjeta dorada y la tarjeta joven.</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="131" name="8 - 2, 3, 5, 7, 10, 17, 18, 19, 23, 25, 28">
+	<node_order><![CDATA[107]]></node_order>
+	<externalid><![CDATA[19]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Caso de prueba 8.</p>
+<p>
+	Resultado esperado: C&oacute;digo de promoci&oacute;n introducido inv&aacute;lido.</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+</testsuite><testsuite name="Objetos perdidos" >
+<node_order><![CDATA[3]]></node_order>
+<details><![CDATA[<p>
+	Solicitud de objetos perdidos</p>
+]]></details> 
+
+<testcase internalid="141" name="Solicitud de objetos perdidos">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[22]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	A la hora de rellenar el formulario que se nos propone encontramos varios errores, como la fecha en la que hemos perdido el objeto, que puede ser en el futuro. El defecto consiste en que se pueden completar con valores alfanum&eacute;ricos, aunque solo deban admitir, en algunos campos, o solo n&uacute;meros, o solo caracteres.</p>
+]]></summary>
+	<preconditions><![CDATA[<p>
+	Formulario completo para la solicitud.</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+</testsuite></testsuite>

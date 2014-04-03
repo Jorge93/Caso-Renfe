@@ -7,7 +7,7 @@
 
 <testcase internalid="23" name="Solicitud de objetos perdidos">
 	<node_order><![CDATA[100]]></node_order>
-	<externalid><![CDATA[22]]></externalid>
+	<externalid><![CDATA[5]]></externalid>
 	<version><![CDATA[1]]></version>
 	<summary><![CDATA[<p>
 	A la hora de rellenar el formulario que se nos propone encontramos varios errores, como la fecha en la que hemos perdido el objeto, que puede ser en el futuro. El defecto consiste en que se pueden completar con valores alfanum&eacute;ricos, aunque solo deban admitir, en algunos campos, o solo n&uacute;meros, o solo caracteres.</p>
