@@ -17,19 +17,9 @@
 	<td></td>
 </tr>
 <tr>
-	<td>click</td>
-	<td>id=IdOrigen</td>
-	<td></td>
-</tr>
-<tr>
 	<td>type</td>
 	<td>id=IdOrigen</td>
 	<td>Albacete-Los Llanos</td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>id=IdDestino</td>
-	<td></td>
 </tr>
 <tr>
 	<td>type</td>
