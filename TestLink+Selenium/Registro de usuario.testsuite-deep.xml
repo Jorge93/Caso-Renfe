@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Registro de usuario" >
+<node_order><![CDATA[4]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="219" name="Registro de usuario Correcto">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[25]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="221" name="Registro de usuario erroneo">
+	<node_order><![CDATA[101]]></node_order>
+	<externalid><![CDATA[26]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+</testsuite>
