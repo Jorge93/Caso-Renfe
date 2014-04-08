@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cercanias" >
+<node_order><![CDATA[5]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="201" name="Mal enlace a Cercanias">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[27]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Pulsando en el inicio de Renfe Cercanias en vez de llevarte al inicio de Cercanias te lleva a la pagina general de Renfe.</p>
+<p>
+	Direccion de Selenium: TestLink+Selenium/TestCase_Cercanias/TestCase_Cercan&iacute;as_FAIL.html</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+</testsuite>
