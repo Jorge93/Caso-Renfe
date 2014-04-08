@@ -7,7 +7,11 @@
 	<node_order><![CDATA[100]]></node_order>
 	<externalid><![CDATA[25]]></externalid>
 	<version><![CDATA[1]]></version>
-	<summary><![CDATA[]]></summary>
+	<summary><![CDATA[<p>
+	Nos registramos en Renfe introduciendo correctamente un DNI, correo electronico, nombre de usuario, contrase&ntilde;a, pregunta de seguridad, nombre, apellidos, fecha de nacimiento, nacionalidad, pais, provincia, poblacion, codigo postal, direccion, numero de piso y telefono.</p>
+<p>
+	Direccion de Selenium: TestLink+Selenium/TestCase_RegistroCliente/Registro_OK.html</p>
+]]></summary>
 	<preconditions><![CDATA[]]></preconditions>
 	<execution_type><![CDATA[1]]></execution_type>
 	<importance><![CDATA[2]]></importance>
@@ -18,7 +22,11 @@
 	<node_order><![CDATA[101]]></node_order>
 	<externalid><![CDATA[26]]></externalid>
 	<version><![CDATA[1]]></version>
-	<summary><![CDATA[]]></summary>
+	<summary><![CDATA[<p>
+	Nos registramos en Renfe introduciendo correctamente un DNI, correo electronico, nombre de usuario, contrase&ntilde;a, pregunta de seguridad, nombre, apellidos, fecha de nacimiento, nacionalidad, pais, provincia, poblacion, codigo postal, direccion, numero de piso y telefono.</p>
+<p>
+	Direccion de Selenium: TestLink+Selenium/TestCase_RegistroCliente/Registro_FAIL_correo.html , TestLink+Selenium/TestCase_RegistroCliente/Registro_FAIL_dni.html</p>
+]]></summary>
 	<preconditions><![CDATA[]]></preconditions>
 	<execution_type><![CDATA[1]]></execution_type>
 	<importance><![CDATA[2]]></importance>

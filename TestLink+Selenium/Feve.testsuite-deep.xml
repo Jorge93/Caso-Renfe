@@ -7,12 +7,14 @@
 	de Renfe.</p>
 ]]></details> 
 
-<testcase internalid="43" name="Retorno a la página principal de Renfe">
+<testcase internalid="206" name="Retorno a la página principal de Renfe">
 	<node_order><![CDATA[100]]></node_order>
 	<externalid><![CDATA[21]]></externalid>
 	<version><![CDATA[1]]></version>
 	<summary><![CDATA[<p>
 	Probaremos el error de Renfe Feve.</p>
+<p>
+	Direccion de Selenium: TestLink+Selenium/TestCase_Feve/TestCase_Feve_FAIL.html</p>
 ]]></summary>
 	<preconditions><![CDATA[<p>
 	Nos situaremos en la p&aacute;gina principal de la Renfe: <a href="http://www.renfe.com/index.html">http://www.renfe.com/index.html</a></p>

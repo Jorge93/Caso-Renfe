@@ -28,6 +28,8 @@
 	Rellenamos los campos de nombre, primer y segundo apellido, correo electronico, telefono, tipo de peticion, departamento y comentarios de manera correcta.</p>
 <p>
 	Resultado esperado: El informe se env&iacute;a correctamente.</p>
+<p>
+	Direccion prueba selenium: TestLink+Selenium/TestCase_AtencionCliente/TestCase_AtencionCliente_OK.html</p>
 ]]></summary>
 	<preconditions><![CDATA[]]></preconditions>
 	<execution_type><![CDATA[1]]></execution_type>
@@ -43,6 +45,8 @@
 	Rellenamos alguno de los campos de DNI, nombre, primer y segundo apellido, correo electronico, telefono, dia y hora de perdida del objeto, lugar de perdida, descripcion de objetos y comentarios de manera incorrecta.</p>
 <p>
 	Resultado esperado: El informe no se envia.</p>
+<p>
+	Direccion de Selenium: TestLink+Selenium/TestCase_Objetos/TestCase_Objetos_FAIL.html</p>
 ]]></summary>
 	<preconditions><![CDATA[]]></preconditions>
 	<execution_type><![CDATA[1]]></execution_type>
@@ -58,6 +62,8 @@
 	Rellenamos los campos de DNI, nombre, primer y segundo apellido, correo electronico, telefono, dia y hora de perdida del objeto, lugar de perdida, descripcion de objetos y comentarios de manera erronea.</p>
 <p>
 	Resultado esperado: El informe no se envia.</p>
+<p>
+	Direccion prueba selenium: TestLink+Selenium/TestCase_AtencionCliente/TestCase_AtencionCliente_FAIL.html</p>
 ]]></summary>
 	<preconditions><![CDATA[]]></preconditions>
 	<execution_type><![CDATA[1]]></execution_type>
