@@ -1,6 +1,8 @@
-1 - Atención al cliente.
-2 - Cambio de idioma.
-3 - Compra de billete.
-4 - Renfe Feve.
-5 - Objetos perdidos.
+1 - Asistente.
+2 - Atencion al cliente.
+3 - Cercanias.
+4 - Feve.
+5 - Idiomas.
+6 - Registro de cliente.
+7 - Seleccion de billetes.
 
