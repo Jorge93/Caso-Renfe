@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Atencion al cliente" >
+<node_order><![CDATA[2]]></node_order>
+<details><![CDATA[]]></details> 
+
+<testcase internalid="145" name="Formulario Objeto Perdido Correcto">
+	<node_order><![CDATA[100]]></node_order>
+	<externalid><![CDATA[11]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Rellenamos los campos de DNI, nombre, primer y segundo apellido, correo electr&oacute;nico, tel&eacute;fono, d&iacute;a y hora de p&eacute;rdida del objeto, lugar de p&eacute;rdida, descripci&oacute;n de objetos y comentarios de manera correcta.</p>
+<p>
+	Resultado esperado: El informe se env&iacute;a correctamente.</p>
+<p>
+	Direcci&oacute;n del caso de prueba de Selenium: TestLink+Selenium/TestCase_Objetos/TestCase_Objetos_OK.html</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="147" name="Formulario Atencion al Cliente Correcto">
+	<node_order><![CDATA[101]]></node_order>
+	<externalid><![CDATA[12]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Rellenamos los campos de nombre, primer y segundo apellido, correo electr&oacute;nico, tel&eacute;fono, tipo de petici&oacute;n, departamento y comentarios de manera correcta.</p>
+<p>
+	Resultado esperado: El informe se env&iacute;a correctamente.</p>
+<p>
+	Direccion del caso de prueba de Selenium: TestLink+Selenium/TestCase_AtencionCliente/TestCase_AtencionCliente_OK.html</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="149" name="Formulario Objeto Perdido Erroneo">
+	<node_order><![CDATA[102]]></node_order>
+	<externalid><![CDATA[23]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Rellenamos alguno de los campos de DNI, nombre, primer y segundo apellido, correo electr&oacute;nico, tel&eacute;fono, d&iacute;a y hora de p&eacute;rdida del objeto, lugar de p&eacute;rdida, descripci&oacute;n de objetos y comentarios de manera incorrecta.</p>
+<p>
+	Resultado esperado: El informe no se envia.</p>
+<p>
+	Direcci&oacute;n del caso de prueba de Selenium: TestLink+Selenium/TestCase_Objetos/TestCase_Objetos_FAIL.html</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+
+<testcase internalid="151" name="Formulario Atencion al Cliente Erroneo">
+	<node_order><![CDATA[103]]></node_order>
+	<externalid><![CDATA[24]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[<p>
+	Rellenamos los campos de DNI, nombre, primer y segundo apellido, correo electr&oacute;nico, tel&eacute;fono, d&iacute;a y hora de p&eacute;rdida del objeto, lugar de p&eacute;rdida, descripci&oacute;n de objetos y comentarios de manera err&oacute;nea.</p>
+<p>
+	Resultado esperado: El informe no se env&iacute;a.</p>
+<p>
+	Direccion del caso de prueba de Selenium: TestLink+Selenium/TestCase_AtencionCliente/TestCase_AtencionCliente_FAIL.html</p>
+]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+
+</testcase>
+</testsuite>
