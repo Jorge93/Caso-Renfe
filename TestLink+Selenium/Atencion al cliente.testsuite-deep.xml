@@ -12,7 +12,7 @@
 <p>
 	Resultado esperado: El informe se env&iacute;a correctamente.</p>
 <p>
-	Direcci&oacute;n del caso de prueba de Selenium: TestLink+Selenium/TestCase_Objetos/TestCase_Objetos_OK.html</p>
+	Direcci&oacute;n del caso de prueba de Selenium: TestLink+Selenium/TestCase_AtencionCliente/TestCase_Objetos_OK.html</p>
 ]]></summary>
 	<preconditions><![CDATA[]]></preconditions>
 	<execution_type><![CDATA[1]]></execution_type>
@@ -46,7 +46,7 @@
 <p>
 	Resultado esperado: El informe no se envia.</p>
 <p>
-	Direcci&oacute;n del caso de prueba de Selenium: TestLink+Selenium/TestCase_Objetos/TestCase_Objetos_FAIL.html</p>
+	Direcci&oacute;n del caso de prueba de Selenium: TestLink+Selenium/TestCase_AtencionCliente/TestCase_Objetos_FAIL.html</p>
 ]]></summary>
 	<preconditions><![CDATA[]]></preconditions>
 	<execution_type><![CDATA[1]]></execution_type>
